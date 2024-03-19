@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: c78cfcdad57869f4f8461eed08dba4bb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background
+    second: {fileID: 2100000, guid: bd5b6462038ea0943ad0c53c0fdae678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_CTop.Square
+    second: {fileID: 2100000, guid: 2884cb0e1958d0d488474920b0e1c204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basin_Stone
+    second: {fileID: 2100000, guid: 6fc2490058fea1a4e9a9b7fcf696249d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brush_Plastic
+    second: {fileID: 2100000, guid: 7ef6150c010cab048bc79376750f3157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic_White
+    second: {fileID: 2100000, guid: 349c41b91edb8bc4aa4a01343cc3bdef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 1852a386300d9ec47a986a0261fbda74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_Rough
+    second: {fileID: 2100000, guid: d393983f0e6996a4db5ceda2faf35137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deco_Bamboo.Box
+    second: {fileID: 2100000, guid: c667e5f06faacec4ca4192136e43bb1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Towel_Blue
+    second: {fileID: 2100000, guid: aece870cc466b6248aeb2af5cfe4fd2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Towel_Grey
+    second: {fileID: 2100000, guid: 886116858366cfd41971c18ac8e0835c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Towel_Orange
+    second: {fileID: 2100000, guid: deaa66fbcc5afa24ea2da9b062293042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Towel_Red
+    second: {fileID: 2100000, guid: 72cbf525bb980044e846851176e40520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Towel_White
+    second: {fileID: 2100000, guid: 4390badefbb78fd46a7e3ec054c91d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorDrain_Round_100mm
+    second: {fileID: 2100000, guid: 791dfa7678d4edc4d801857461fa55d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorDrain_Square_100mm
+    second: {fileID: 2100000, guid: 552b286c18c5e0a4ab7aa759f12f3a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorDrain_Square_Border_100mm
+    second: {fileID: 2100000, guid: 51630fe15bdbddf47be3c3790ee954da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FloorDrain_Square_Solid_100mm
+    second: {fileID: 2100000, guid: 39baf78866fa5c74dba2538175ce20ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Basic
+    second: {fileID: 2100000, guid: d4214e36962c44b4fb20d829ca9e08b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 50a854c7af8c41a4b8e08ec529722fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ladder_rack
+    second: {fileID: 2100000, guid: 742f2f7df7306164da153278c3bddebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laundry_Basket
+    second: {fileID: 2100000, guid: 1caccec92b2f80442a0c36e5034db6af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shaving_Mirror_Double
+    second: {fileID: 2100000, guid: 003c1388b16bd114b97b8e6fed12991e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower_Square_Corner
+    second: {fileID: 2100000, guid: c80c7ac4843da094eb63b71f8ee89e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soap_Dispenser
+    second: {fileID: 2100000, guid: b6520893dc1a8b340a0735da0f76e2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless_Steel
+    second: {fileID: 2100000, guid: 8deb02f7b6fb64d4bbf4894167d87009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tap_Mixer_Loop
+    second: {fileID: 2100000, guid: 5eaf6fce9ec4ae9489d0613372d3015b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Modern_Rimless
+    second: {fileID: 2100000, guid: 5ae594ff5e5dd444880c7e890a0d6307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toilet_Paper_Roll
+    second: {fileID: 2100000, guid: b3f7746d5ceea10418697edb69e70f02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanity_Albany
+    second: {fileID: 2100000, guid: 11d1f5aab49cfe44db23e1f07fabe08c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanity_Double_Timber
+    second: {fileID: 2100000, guid: 15c13a9ca16d9274a95bcd8cfce0b1f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanity_Mirror_Triple
+    second: {fileID: 2100000, guid: d4959a0439e78c0448a2bfa68e4e3a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vanity_Timber
+    second: {fileID: 2100000, guid: 7afc2a8e064a6624aa6ea61b1b2c46f3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
